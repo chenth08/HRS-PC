@@ -1,5 +1,5 @@
 # HRS-PC
-We construct a planar-constrained dataset HRS-PC from the HSR-JR680 industrial robot. It contains three spatially oriented sub-datasets HRS-P1–P3, with each sub-dataset containing 200 samples. Each sample contains six joint angles (q1, q2, q3, q4, q5, q6 ), a corresponding cable length (L) and a reading of the dial indicator (Δb).
+We construct a planar-constrained dataset HRS-PC from the HSR-JR680 industrial robot. It contains three spatially oriented sub-datasets HP1–HP3, with each sub-dataset containing 200 samples. Each sample contains six joint angles (q1, q2, q3, q4, q5, q6 ), a corresponding cable length (L) and a reading of the dial indicator (Δb).
 
 (1)Z. Li, S. Li and X. Luo, "An overview of calibration technology of industrial robots," IEEE/CAA Journal of Automatica Sinica, vol. 8, no. 1, pp. 23-36, Jan. 2021.
 
