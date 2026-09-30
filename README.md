@@ -11,4 +11,4 @@ We construct a planar-constrained dataset HRS-PC from the HSR-JR680 industrial r
 
 (5)T. Chen, W. Yang, S. Li and X. Luo, "An Adaptive p-Norms-Based Kinematic Calibration Model for Industrial Robot Positioning Accuracy Promotion," IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 55, no. 4, pp. 2937-2949, Apr. 2025.
 
-Interpretation of the HSR-P robot dataset: https://zhuanlan.zhihu.com/p/573903940
+Interpretation of the HSR-PC robot dataset: https://zhuanlan.zhihu.com/p/573903940
